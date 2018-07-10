@@ -1,0 +1,20 @@
+.
+├── 1
+│   ├── 06bf3e2d-6be3-a45b-05d4c67c7e8afb1f.ta
+│   ├── cdfinger.default.so
+│   ├── cdfinger.fingerprint.default.so
+│   ├── fingerprint.default.so
+│   ├── Q286.pem
+│   ├── re-sign.py
+│   └── 1.py
+├── python
+│   └── 1.py
+├── qianming
+│   ├── 06bf3e2d-6be3-a45b-05d4c67c7e8afb1f.ta
+│   ├── T680.pem
+│   ├── 麦穗道格D5506.zip
+│   └── re-sign.py
+├── test
+└── 1.txt
+
+4 directories, 13 files
